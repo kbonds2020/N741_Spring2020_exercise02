@@ -1,3 +1,6 @@
+# load the hexbin package
+# use the library() function
+
 library(hexbin)
 
 # use the data() function
