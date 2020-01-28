@@ -1,3 +1,5 @@
+library(hexbin)
+
 # load the hexbin package
 # use the library() function
 
