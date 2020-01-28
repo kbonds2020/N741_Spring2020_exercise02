@@ -1,3 +1,6 @@
+# my work on exercise 2
+# Jan 27, 2020
+
 library(hexbin)
 
 # load the hexbin package
